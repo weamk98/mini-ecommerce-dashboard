@@ -19,3 +19,5 @@ A small PHP + MySQL project to manage products.
 1. Create DB `mini_shop` and table `products`
 2. Put project into your web server folder (e.g., XAMPP `htdocs`)
 3. Open `http://localhost/mini-ecommerce-dashboard/`
+
+## Schreenshot
