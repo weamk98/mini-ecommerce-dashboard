@@ -43,3 +43,24 @@ input {
   outline: none;
 }
 input:focus { border-color: #bbb; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table th,
+table td {
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+}
+
+table th {
+  background-color: #f2f2f2;
+  font-weight: 600;
+}
+
+table tr:nth-child(even) {
+  background-color: #fafafa;
+}
